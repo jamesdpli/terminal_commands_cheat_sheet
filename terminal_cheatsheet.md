@@ -13,6 +13,6 @@
  - `clear` clears the terminal, if you want to see what you have cleared you can scroll up
 
  ---
- ## *You can use tab to autocomplete a the line*
+ *You can use tab to autocomplete a the line*
 
- ## *You can use the up and down arrows on the keyboard to* ***cycle through previous commands***
+ *You can use the up and down arrows on the keyboard to* ***cycle through previous commands***
