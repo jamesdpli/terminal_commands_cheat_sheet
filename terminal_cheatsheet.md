@@ -1,6 +1,6 @@
 # Useful Terminal Commands
  
- ### The terminal can be used as an alternative from the graphical interface in order to move through files
+ ### Terminals, also known as command lines or consoles, allow us to accomplish and automate tasks on a computer without the use of a graphical user interface.
 
  - `cd` allows you to change directory 
  - `cd ..` goes up a directory
