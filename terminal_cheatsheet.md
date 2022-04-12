@@ -1,6 +1,6 @@
 # Unix Command Line Tips and Tricks
  
- ### Terminals, also known as command lines or consoles, allow us to accomplish and automate tasks on a computer without the use of a graphical user interface.
+ ### Terminals, also known as command lines or consoles, allow us to accomplish and automate tasks on a computer without the use of a graphical user interface
 
  - `cd` allows you to change directory 
  - `cd ..` goes up a directory
@@ -16,6 +16,9 @@
     2. `mv my_file.txt ~/btna/coursework/week_01` will move the file from where it is to the specified file path in the second argument
  - `cp` will copy a file this is done like this `cp file_1.txt ~/bnta` this will copy the file "file_1.txt" into the bnta directory
  - `rm` will remove a named file or folder ... **BE CAREFUL WITH THIS ONE**
+  - `code` opens VScode, you can open a particular folder and or file in VScode by typing `code ~/btna` for example, this will open the btna folder in VScode
+  - `cat` displays contents of a file on the terminal, this is useful for when you want to display the contents of a .pub file when trying to retireve your SSH key
+  - `history 15` lists the last 15 commands in your terminal
  ---
  ## Flags
  ### There are many different flags used in the unix command line, bellow you will find some commonly used ones.
@@ -26,7 +29,7 @@
  *There are many more flags than listed, this is a brief introduction to some of the more common ones*
 
  ---
- 
- *You can use tab to autocomplete a the line*
 
- *You can use the up and down arrows on the keyboard to* ***cycle through previous commands***
+ *You can use `tab` to autocomplete a the line*
+
+ *You can use the `up` and `down` arrows on the keyboard to* ***cycle through previous commands***
