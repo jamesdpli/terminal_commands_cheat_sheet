@@ -20,9 +20,13 @@
  ## Flags
  ### There are many different flags used in the unix command line, bellow you will find some commonly used ones.
  - `-a` means all for example ls -a lists all files and folders in you rcurrent folder **including the hidden ones**.
-
+ - `-f` means to force an action ... **BE CARFUL WHEN FORCING `rm` ACTIONS**
+ - `-m` means message, think about when you use `git commit -m"your message here"` the m allows you to write a message.
+ 
+ *There are many more flags than listed, this is a brief introduction to some of the more common ones*
 
  ---
+ 
  *You can use tab to autocomplete a the line*
 
  *You can use the up and down arrows on the keyboard to* ***cycle through previous commands***
