@@ -5,8 +5,8 @@
  - `cd` allows you to change directory 
  - `cd ..` goes up a directory
  - `cd -` returns to the last directory you were in 
- - `mkdir` creates a directory with the name you specify, for example mkdir my_folder will create a foler called "my_folder"
- - `touch` creates a file with a specific name, for example touch my_file will create a file called "my_file"
+ - `mkdir` creates a directory with the name you specify, for example `mkdir my_folder` will create a foler called "my_folder"
+ - `touch` creates a file with a specific name, for example `touch my_file` will create a file called "my_file"
  - `pwd` prints file path
  - `ls` lists the content of the current directory
  - `ls -a` lists all content including hidden files
@@ -14,15 +14,15 @@
  - `mv` an interesting command with multiple uses: 
     1. `mv my_file.txt my_file_1.txt` this will rename my_file.txt to my_file_1.txt
     2. `mv my_file.txt ~/btna/coursework/week_01` will move the file from where it is to the specified file path in the second argument
- - `cp` will copy a file this is done like this `cp file_1.txt ~/bnta` this will copy the file "file_1.txt" into the bnta directory
+ - `cp` will copy a file, `cp file_1.txt ~/bnta` this will copy the file "file_1.txt" into the bnta directory
  - `rm` will remove a named file or folder ... **BE CAREFUL WITH THIS ONE**
-  - `code` opens VScode, you can open a particular folder and or file in VScode by typing `code ~/btna` for example, this will open the btna folder in VScode
-  - `cat` displays contents of a file on the terminal, this is useful for when you want to display the contents of a .pub file when trying to retireve your SSH key
+  - `code` opens VScode, you can open a particular folder and or file in VScode by typing `code ~/btna`, this will open the btna folder in VScode
+  - `cat` displays contents of a file on the terminal, this is useful for when you want to display the contents of a .pub file when trying to retrieve your SSH key
   - `history 15` lists the last 15 commands in your terminal
  ---
  ## Flags
- ### There are many different flags used in the unix command line, bellow you will find some commonly used ones.
- - `-a` means all for example ls -a lists all files and folders in you rcurrent folder **including the hidden ones**.
+ ### There are many different flags used in the unix command line, below you will find some commonly used ones
+ - `-a` means all, for example ls -a lists all files and folders in you rcurrent folder **including the hidden ones**.
  - `-f` means to force an action ... **BE CARFUL WHEN FORCING `rm` ACTIONS**
  - `-m` means message, think about when you use `git commit -m"your message here"` the m allows you to write a message.
  
