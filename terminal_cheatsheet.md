@@ -34,4 +34,4 @@
 
  *You can use the `up` and `down` arrows on the keyboard to* ***cycle through previous commands***
 
-Test 3
+***Hello please can you ignore the other contributer, I think my MacBook had their login details but I seem to have fixed the issue (from James Dudhi-Price)***
